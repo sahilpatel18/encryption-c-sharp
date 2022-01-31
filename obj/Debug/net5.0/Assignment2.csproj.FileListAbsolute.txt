@@ -1,0 +1,15 @@
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/Assignment2.deps.json
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/Assignment2.runtimeconfig.json
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/Assignment2.runtimeconfig.dev.json
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/Assignment2.dll
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/ref/Assignment2.dll
+/Users/SahilPatel/projects/Assignment2/bin/Debug/net5.0/Assignment2.pdb
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.csproj.AssemblyReference.cache
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.AssemblyInfoInputs.cache
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.AssemblyInfo.cs
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.dll
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/ref/Assignment2.dll
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.pdb
+/Users/SahilPatel/projects/Assignment2/obj/Debug/net5.0/Assignment2.genruntimeconfig.cache
